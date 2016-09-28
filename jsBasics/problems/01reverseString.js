@@ -2,7 +2,7 @@
 
 function reverseString(string) {
 
-  // Write your code here
+  // Your code goes here
 
 }
 
