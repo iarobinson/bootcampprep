@@ -2,18 +2,9 @@
 // Write a function that takes a sentence and returns the longest word.
 
 function longestWord(string) {
-  var words = string.split(" ");
-  var longestWord = '';
 
-  for (var i = 0; i < words.length; i += 1) {
-    var currentWord = words[i];
+  // Your code here
 
-    if (currentWord.length > longestWord.length) {
-      longestWord = currentWord;
-    }
-  }
-
-  return longestWord;
 }
 
 // Solutions - Do not edit below this line

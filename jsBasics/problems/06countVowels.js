@@ -1,13 +1,11 @@
 // Write a function that counts the number
 //  of vowels in a string
 
-
 function countVowels(str) {
 
   // Your code goes here
 
 }
-
 
 // Solutions - Do not edit below this line
 console.log(); // for spacing

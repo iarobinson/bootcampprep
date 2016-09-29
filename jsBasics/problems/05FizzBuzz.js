@@ -7,25 +7,9 @@
 // When the number is evenly divisible by three and five, push 'fizzbuzz'
 
 function fizzBuzz(low, high) {
-  var fizzBuzzArray = [];
-  var idx = low;
 
-  while (idx <= high) {
+  // Your code goes here
 
-    if (idx % 3 === 0 && idx % 5 === 0) {
-      fizzBuzzArray.push('fizzbuzz');
-    } else if (idx % 3 === 0) {
-      fizzBuzzArray.push('fizz');
-    } else if (idx % 5 === 0) {
-      fizzBuzzArray.push('buzz');
-    } else {
-      fizzBuzzArray.push(idx);
-    }
-
-    idx += 1;
-  }
-
-  return fizzBuzzArray;
 }
 
 

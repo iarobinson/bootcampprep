@@ -1,7 +1,6 @@
 // Write a function that counts the number
 //  of vowels in a string
 
-
 function countVowels(str) {
   var vowelCount = 0;
   var vowels = ['a', 'e', 'i', 'o', 'u'];
@@ -15,7 +14,6 @@ function countVowels(str) {
   return vowelCount;
 }
 
-
 // Solutions - Do not edit below this line
 console.log(); // for spacing
 
@@ -27,4 +25,5 @@ console.log(countVowels(string2), " <= 6 =>", countVowels(string2) === 6);
 
 var string3 = "grace brewster murray hopper";
 console.log(countVowels(string3), " <= 8 =>", countVowels(string3) === 8);
+
 console.log(); // for spacing
