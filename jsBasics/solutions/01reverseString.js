@@ -1,15 +1,16 @@
 // Write a function which returns a string in reverse.
 
 function reverseString(string) {
-  var newString = "";
+  var revString = '';
+
   var index = string.length - 1;
 
   while (index >= 0) {
-    newString = newString + string[index];
+    revString = revString + string[index];
     index = index - 1;
   }
 
-  return newString;
+  return revString;
 }
 
 
