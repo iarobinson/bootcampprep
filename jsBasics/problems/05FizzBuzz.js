@@ -8,7 +8,7 @@
 
 function fizzBuzz(low, high) {
 
-  // Your code goes here
+// Your code here
 
 }
 
