@@ -3,7 +3,7 @@
 
 function countVowels(str) {
 
-  // Your code goes here
+  // Your code here
 
 }
 
