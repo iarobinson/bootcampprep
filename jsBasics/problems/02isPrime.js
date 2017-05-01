@@ -9,7 +9,7 @@
 function isPrime(num) {
 
   // Your code goes here
-  
+
 }
 
 // Solutions - Do not edit below this line
